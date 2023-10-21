@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+}
+
+/* Estilos para el primer párrafo */
+p {
+    background-color: aqua;
+}
+
+/* Estilos para el segundo párrafo con la clase "destacado" */
+.destacado {
+    border: 3px  solid blue; 
+}
+
+/* Estilos para el tercer páraffo con el ID "parrafo-grande" */
+#parrafo-grande {
+    font-size: 2rem;
+}
+
+
